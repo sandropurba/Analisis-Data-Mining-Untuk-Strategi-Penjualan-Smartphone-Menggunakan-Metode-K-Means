@@ -1,0 +1,15 @@
+E:\Program Mining\Dewi_KMeans\Dewi_KMeans\bin\Debug\Dewi_KMeans.exe
+E:\Program Mining\Dewi_KMeans\Dewi_KMeans\bin\Debug\Dewi_KMeans.pdb
+E:\Program Mining\Dewi_KMeans\Dewi_KMeans\bin\Debug\Dewi_KMeans.xml
+E:\Program Mining\Dewi_KMeans\Dewi_KMeans\obj\Debug\ResolveAssemblyReference.cache
+E:\Program Mining\Dewi_KMeans\Dewi_KMeans\obj\Debug\Dewi_KMeans.Form1.resources
+E:\Program Mining\Dewi_KMeans\Dewi_KMeans\obj\Debug\Dewi_KMeans.Form_Utama.resources
+E:\Program Mining\Dewi_KMeans\Dewi_KMeans\obj\Debug\Dewi_KMeans.Resources.resources
+E:\Program Mining\Dewi_KMeans\Dewi_KMeans\obj\Debug\Dewi_KMeans.vbproj.GenerateResource.Cache
+E:\Program Mining\Dewi_KMeans\Dewi_KMeans\obj\Debug\Dewi_KMeans.exe
+E:\Program Mining\Dewi_KMeans\Dewi_KMeans\obj\Debug\Dewi_KMeans.xml
+E:\Program Mining\Dewi_KMeans\Dewi_KMeans\obj\Debug\Dewi_KMeans.pdb
+E:\Program Mining\Dewi_KMeans\Dewi_KMeans\obj\Debug\Dewi_KMeans.FormProses.resources
+E:\Program Mining\Dewi_KMeans\Dewi_KMeans\obj\Debug\Dewi_KMeans.FormProses2.resources
+E:\Program Mining\Dewi_KMeans\Dewi_KMeans\obj\Debug\Dewi_KMeans.FormTypeHp.resources
+E:\Program Mining\Dewi_KMeans\Dewi_KMeans\obj\Debug\Dewi_KMeans.Laporan.resources

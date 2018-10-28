@@ -1,0 +1,1 @@
+# Analisis-Data-Mining-Untuk-Strategi-Penjualan-Smartphone-Menggunakan-Metode-K-Means
